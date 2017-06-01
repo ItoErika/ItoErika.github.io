@@ -1,10 +1,11 @@
-# Research Website for [Andrew Zaffos] (http://www.azstrata.org/)
+# Research Website for [Erika Ito] (http://www.azstrata.org/)
 
 Website created using the template [Bare](http://startbootstrap.com/template-overviews/bare/), a starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
 
 ## Creator
 
-Website was created by and is maintained by **Andrew Zaffos**, research associate and associate lecturer in geology at the [Univeristy of Wisconsin - Madison](http://geoscience.wisc.edu/geoscience/).
+Website was created by and is maintained by **Erika Ito**, graduate student at the University of Massachusetts - Amherst.
+Original template from [Dr. Andrew Zaffos](http://www.azstrata.org). 
 
 ## Copyright and License
 
