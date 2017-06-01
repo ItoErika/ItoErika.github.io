@@ -8,21 +8,11 @@
 + Ito, E.T., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
 
 ## Published Abstracts
-
-## Invited Talks, Book Chapters, and Guest Lectures
-+ **Zaffos, A.** (2012). Climate Change: A paleontologist's perspective. *Illinois Wesleyan University*.
-
-## Courses Taught
-
-## Courses Assisted
-
-## Scholarships and Research Support
++ Ito, E.T., Zaffos, A., Syverson, V.J., Ross, I.A., and S.E. Peters (2017). Identifying, cross-referencing, and extracting dark data using GeoDeepDive. Digital Data in Biodiversity Research Conference.
 
 ## Laboratory and Development Team Affiliations
 + [Macrostrat Team](https://macrostrat.org/) (2016-2017)
 + [GeoDeepDive Team](https://geodeepdive.org/) (2016-2017)
 
-## Professional Societies
 
-## Community Participation
 
