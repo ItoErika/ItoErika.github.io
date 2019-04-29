@@ -2,7 +2,7 @@
 
 ## Education
 + Bachelor of Science (2013-2016). University of Wisconsin - Madison. 
-+ Master of Science (2017-present). University of Massachusetts - Amherst. Thesis:  . Advisor: 
++ Master of Science (2017-present). University of Massachusetts - Amherst. Thesis:  . Advisor: Dr. Christine Hatch 
 
 ## Peer Reviewed Publications
 + Ito, E.T., **Zaffos, A.**, and S.E. Peters (*in preparation*). The quality of the Paleobiology Database.
