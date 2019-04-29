@@ -1,6 +1,6 @@
 # Research Website for [Erika Ito](https://itoerika.github.io/)
 
-Website created using the template [Bare](https://itoerika.github.io/), a starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
+Website created using the template [Bare](http://startbootstrap.com/template-overviews/bare/), a starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
 
 ## Creator
 
